@@ -1,6 +1,6 @@
-voila==0.3.0
-geemap
-leafmap
-bqplot
-ipyleaflet
-leafmap
+pip install voila==0.3.0
+pip install geemap
+pip install leafmap
+pip install bqplot
+pip install ipyleaflet
+pip install leafmap

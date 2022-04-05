@@ -1,4 +1,3 @@
-pip freeze > requirements.txt
 install voila==0.3.0
 install geemap
 install leafmap

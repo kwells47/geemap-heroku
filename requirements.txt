@@ -4,4 +4,3 @@ leafmap
 bqplot
 ipyleaflet
 IPython
-ee

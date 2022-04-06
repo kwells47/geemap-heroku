@@ -1,3 +1,4 @@
 voila
-geemap==0.13.1
+geemap
 leafmap
+google-api-python-client==1.12.8

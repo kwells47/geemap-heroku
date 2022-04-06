@@ -1,4 +1,4 @@
 voila
 geemap
 leafmap
-google-api-python-client==1.12.8
+ee == 0.1.256

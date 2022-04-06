@@ -1,4 +1,4 @@
 voila
 geemap
 leafmap
-ee == 0.1.256
+earthengine-api==0.1.226

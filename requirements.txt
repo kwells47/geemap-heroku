@@ -3,4 +3,4 @@ geemap
 leafmap
 bqplot
 ipyleaflet
-IPython
+

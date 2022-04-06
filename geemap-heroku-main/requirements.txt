@@ -1,5 +1,2 @@
 voila
 geemap
-leafmap
-bqplot
-ipyleaflet

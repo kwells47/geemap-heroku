@@ -3,4 +3,8 @@ geemap
 leafmap
 bqplot
 ipyleaflet
+<<<<<<< HEAD
 IPython.display
+=======
+
+>>>>>>> af0e177772799bbcdfbe1948fe12eb65d213a4d5
